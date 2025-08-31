@@ -1,7 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=4493f8&multiline=true&repeat=false&width=435&lines=Hola%2C+I'm+Benjamin+Lopez)](https://git.io/typing-svg)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hola,+I'm+Benji+Lopez)
-
-Fullstack Developer with a love for **pixel-perfect UI**, **payment gateways**, and **making code behave**.  
+Fullstack Developer with a love for **pixel-perfect UI**, payment gateways, and making code behave.  
 
 I have experience in:  
 - **Payment gateways & eCommerce platforms**  
@@ -12,8 +11,6 @@ I have experience in:
 
 Check out my portfolio: [**My Portfolio**](https://benjaminlopez.dev) 🌐  
 
----
-
 ## 🛠 Some Tools I use Everyday
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -22,8 +19,6 @@ Check out my portfolio: [**My Portfolio**](https://benjaminlopez.dev) 🌐
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
 
 ## 💬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/benjamin-lopez-tovar))
